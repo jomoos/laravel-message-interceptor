@@ -1,5 +1,5 @@
 {
-    "name": "mozammil/laravel-message-interceptor",
+    "name": "jomoos/laravel-message-interceptor",
     "description": "A Laravel package to intercept emails. Particularly useful in development environments",
     "license": "MIT",
     "authors": [
@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": "^7.0",
-        "laravel/framework": "~5.5.0|~5.6.0|~5.7.0|~5.8.0"
+        "laravel/framework": "~5.5.0|~5.6.0|~5.7.0|~5.8.0|6.*|7.*"
     },
     "require-dev": {
         "mockery/mockery": "^1.2",
